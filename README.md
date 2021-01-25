@@ -20,4 +20,4 @@ keyboard.
 
 Now your url-bar has a "safe" link you can place into the sanity CMS url bar.
 
-![Pressing y](/assets/pressing-y-url.gif)
+![Pressing y](https://github.com/musicfox/open-positions/blob/92931f94a33abbda2fa407ccbd7bdf4a5c315f96/assets/pressing-y-url.gif)
