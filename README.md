@@ -20,4 +20,4 @@ keyboard.
 
 Now your url-bar has a "safe" link you can place into the sanity CMS url bar.
 
-![Pressing y](/assets/Kapture%202021-01-25%20at%2014.27.27.gif)
+![Pressing y](/assets/pressing-y-url.gif)
