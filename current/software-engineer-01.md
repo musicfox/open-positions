@@ -1,6 +1,6 @@
 ## Software Engineer #1
 
-Musicfox is a software company radically altering how music is funded and artists create sustainable growth. We run at a rapid pace internally, to iterate a deliberate, well-executed external vision. We see ourselves as the [Veblenian dichotomizers](https://en.wikipedia.org/wiki/Thorstein_Veblen#Veblenian_dichotomy) of the music industry. As such, our mission, artist enablement, is paramount to each keystroke, commit, and test we write.
+Musicfox is a software company radically altering how music is funded and artists create sustainable growth. We run at a rapid pace internally, to iterate a deliberate, well-executed external vision. We see ourselves as an act of structural dichotomy within the music industry, which positively expands access to financial and operational technologies to vastly more musicians and artists. As such, our mission, the enablement of _creative people_, is paramount to each keystroke, commit, and test we write.
 
 ### Position overview
 
