@@ -2,7 +2,10 @@
 
 Musicfox is a software company democratizing how artists and music are funded.
 
-As a software engineer at Musicfox you'll relish in your power to improve the lives of Musicfox artists. The firm's structure places dev at the core and directly enables its technical team to rapidly produce meaningful client-facing features and valuation technologies. Technical feature iteration is built into the firm's financial and operational strategy, similar to a modular hub + spoke microstructure architecture, offering substantial opportunity for impact.
+As a software engineer at Musicfox you'll relish in your power to improve the lives of Musicfox artists.
+The firm's structure places dev within in its core and directly enables its technical team to rapidly produce meaningful client-facing features and valuation technologies.
+Technical feature iteration is built into the firm's financial and operational strategy, similar to a modular hub + spoke microstructure architecture.
+In consequence, developers have a substantial opportunity for impact.
 
 Flexibility and hunger are absolutely required. As a startup, we expect the same do-whatever-it-takes approach we take, from you. And that you understand and expect personal, professional, and financial growth in your career at Musicfox.
 
@@ -30,9 +33,8 @@ Flexibility and hunger are absolutely required. As a startup, we expect the same
 -   You could make an ugly site with raw `HTML`. And know enough `CSS` to give the `Hello, world!` header some margin.
 -   Experience working with containerized applications and microservices deployed on major cloud providers (AWS, Azure, GCP).
 -   Experience consuming GraphQL APIs is highly preferred.
--   GraphQL API consumption experience is a plus.
 -   You regularly use and commit to projects using `git`.  
--   5+ years of linux CLI usage is a must. 
+-   5+ years of linux CLI usage is a differentiator. 
 -   Outstanding collaboration and communication skills are essential, with a willingness to challenge ideas.
 -   Analyze code for weaknesses and bugs, file detailed issues, and help to improve the codebase.
 -   Working on multiple, possibly separate projects, at once brings you immense joy.
