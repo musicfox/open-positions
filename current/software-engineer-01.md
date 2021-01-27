@@ -1,12 +1,10 @@
 ## Software Engineer #1
 
-Musicfox is a software company radically altering how music is funded and artists create sustainable growth. We run at a rapid pace internally, to iterate a deliberate, well-executed external vision. We see ourselves as an act of structural dichotomy within the music industry, which positively expands access to financial and operational technologies to vastly more musicians and artists. As such, our mission, the enablement of _creative people_, is paramount to each keystroke, commit, and test we write.
+Musicfox is a software company democratizing how artists and music are funded.
 
-### Position overview
+As a software engineer at Musicfox you'll relish in your power to improve the lives of Musicfox artists. The firm's structure places dev at the core and directly enables its technical team to rapidly produce meaningful client-facing features and valuation technologies. Technical feature iteration is built into the firm's financial and operational strategy, similar to a modular hub + spoke microstructure architecture, offering substantial opportunity for impact.
 
-As our first true _software owner_ you'll relish in your power to improve the lives of Musicfox artists. The firm's structure places dev at the core of Musicfox and directly enables its technical team to rapidly produce meaningful client-facing features and valuation technologies. Technical feature iteration is built into the firm's financial and operational strategy, similar to a modular hub + spoke microstructure architecture, offering substantial opportunity for impact.
-
-Flexibility and hunger are absolutely required. As a startup, we expect the same do-whatever-it-takes approach we take, from you. And that you understand and expect personal, professional, and financial growth in your career at Musicfox.  
+Flexibility and hunger are absolutely required. As a startup, we expect the same do-whatever-it-takes approach we take, from you. And that you understand and expect personal, professional, and financial growth in your career at Musicfox.
 
 ### Responsibilities
 
@@ -40,3 +38,5 @@ Flexibility and hunger are absolutely required. As a startup, we expect the same
 -   Working on multiple, possibly separate projects, at once brings you immense joy.
 -   Self-motivated.
 -   Habitual writer of documentation.
+
+### Apply via [LinkedIn](https://www.linkedin.com/jobs/view/2389931592/?refId=go2p8cn%2BQtmGpy%2F%2Bcde9Bw%3D%3D) or [AngelList](https://angel.co/company/musicfox/jobs/1149534-software-engineer).
