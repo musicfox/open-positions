@@ -40,5 +40,3 @@ Flexibility and hunger are absolutely required. As a startup, we expect the same
 -   Working on multiple, possibly separate projects, at once brings you immense joy.
 -   Self-motivated.
 -   Habitual writer of documentation.
-
-### Apply via [LinkedIn](https://www.linkedin.com/jobs/view/2389931592/?refId=go2p8cn%2BQtmGpy%2F%2Bcde9Bw%3D%3D) or [AngelList](https://angel.co/company/musicfox/jobs/1149534-software-engineer).
